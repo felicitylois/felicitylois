@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<h2 align="center"> 🛡️ Cybersecurity Projects & Homelabs </h2>
+<h2 align="center"> 🛡️Projects & Homelabs </h2>
 
 <p align="center">
   <a href="https://github.com/felicitylois/Linux-Apache-Webserver">
@@ -56,7 +56,7 @@
   </a>
 </p>
 
-<h2 align="center"> 🛠️ Security Toolkit </h2>
+<h2 align="center"> 🛠️ My Favourite Tools </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
