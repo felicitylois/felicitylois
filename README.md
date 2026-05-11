@@ -45,11 +45,11 @@
   <a href="[https://github.com/felicitylois/Linux-Apache-Webserver](https://github.com/felicitylois/End-to-End-App-Monitoring-Using-Prometheus-Grafana-Monitoring)">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felicitylois&repo=End-to-End-App-Monitoring-Using-Prometheus-Grafana-Monitoring&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&show_icons=true" />
   </a>
-  <a href="[https://github.com/felicitylois/Containerize-a-3-tier-application]">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felicitylois&repo=Containerize-a-3-tier-application&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&show_icons=true" />
+  <a href="https://github.com/felicitylois/IaC-pipeline-using-GitHub-and-Terraform-Cloud">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felicitylois&repo=IaC-pipeline-using-GitHub-and-Terraform-Cloud&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&show_icons=true" />
   </a>
-  <a href="https://github.com/felicitylois/Wazuh-SIEM-Setup">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felicitylois&repo=Wazuh-SIEM-Setup&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&show_icons=true" />
+  <a href="https://github.com/felicitylois/Automating-CI-CD-Pipeline-with-GitHub-Actions-Docker-and-Amazon-ECR">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felicitylois&repo=Automating-CI-CD-Pipeline-with-GitHub-Actions-Docker-and-Amazon-ECR&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&show_icons=true" />
   </a>
   <a href="https://github.com/felicitylois/AWS-IAM-Hardening-Automated-Access-Reviews">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felicitylois&repo=AWS-IAM-Hardening-Automated-Access-Reviews&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&show_icons=true" />
